@@ -1,0 +1,11 @@
+baseURL = "https://hildenost.github.io"
+languageCode = "en-gb"
+title = "Hilde Aas Nøst"
+theme = "hyde"
+copyright = ""
+publishdir = "hildenost.github.io"
+
+[Author]
+	name = "Hilde Aas Nøst"
+
+
